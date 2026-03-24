@@ -1,9 +1,8 @@
 # CRM-Analyst
 CRM Analyst project
 <img width="1507" height="830" alt="2" src="https://github.com/user-attachments/assets/c8448796-3eae-4025-9759-db008f5d6988" />
-
 1. Understand and define the problem
-   -  **The Bottleneck**:The legacy CRM system suffered from poor industry classification, leaving approximately 50% of the 72,000+ records unidentifiable,duplicated or misclassified. This prevented the sales department from performing precise market segmentation.
+   -  **The Bottleneck**:The legacy CRM system suffered from poor industry classification, leaving approximately 50% of the 72,000+ records unidentifiable,duplicated or misclassified.
    -  **Objectives:**
       -  Restructure Unstructured Data: Utilize online tool "Voyant" do Part-of-Speech (POS) tagging and keyword extraction to recover "lost" industry information from company names.
       -  Market Benchmarking: Compare internal customer density with official Government Open Data (DGBAS) to calculate the company's "Market Capture Rate."
